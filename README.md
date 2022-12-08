@@ -1,2 +1,1 @@
-# coza
-coza
+![](coza.png)
